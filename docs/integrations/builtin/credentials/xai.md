@@ -1,3 +1,4 @@
+SiteAiofficebd/n8n-docs 
 ---
 title: xAI credentials
 description: Documentation for xAI credentials. Use these credentials to authenticate xAI in n8n, a workflow automation platform.
